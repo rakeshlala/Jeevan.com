@@ -167,3 +167,12 @@ left: 30%;
 top: -5%;
 background-color: #f89a4d;
 }
+@media (max-width: 480px) {
+  /* Mobile styles */
+}
+@media (max-width: 768px) {
+  /* Tablet styles */
+}
+@media (min-width: 769px) {
+  /* Desktop styles */
+}
